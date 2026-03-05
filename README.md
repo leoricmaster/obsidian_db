@@ -1,2 +1,2 @@
-# obsidian_db
-obsidian database
+
+This is obsidian database.
