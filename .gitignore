@@ -23,3 +23,7 @@ Thumbs.db
 # *.pdf
 # *.mp4
 # *.mov
+
+# Claude plugin data
+.claude/sessions/
+.obsidian/plugins/.claudian/data.json

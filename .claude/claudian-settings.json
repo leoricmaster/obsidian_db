@@ -64,7 +64,9 @@
   },
   "locale": "zh-CN",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {},
+  "claudeCliPathsByHost": {
+    "HIH-D-25704ZZ": "/home/lancer/.nvm/versions/node/v20.19.6/bin/claude"
+  },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
